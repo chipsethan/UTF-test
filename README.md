@@ -3,7 +3,7 @@ https://github.com/ww898/utf-cpp
 
 https://github.com/nemtrif/utfcpp
 
-// performance benchmark, tested with a 126MB UTF8 text file
+# performance benchmark, tested with a 126MB UTF8 text file
 
 Visual Studio 2019 - 16.10.0 (Win10 Pro 20H2, x64, Intel i7-8700)
 
